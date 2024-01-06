@@ -1,6 +1,6 @@
 <h1>Hi, I'm Josh! </h1>
 
-👋 Hey there! I'm Joshua, a tech enthusiast navigating the world of Information Technology and Systems. Currently rocking the tech support scene at an SAAS company while pursuing my degree.
+👋 A tech enthusiast navigating the world of Information Technology and Systems. Currently rocking the tech support scene at an SAAS company while pursuing my degree.
 
 💻 Profession & Studies:
 
