@@ -1,5 +1,22 @@
 <h1>Hi, I'm Josh! </h1>
 
+👋 Hey there! I'm Joshua, a tech enthusiast navigating the world of Information Technology and Systems. Currently rocking the tech support scene at an SAAS company while pursuing my degree.
+
+💻 Profession & Studies:
+
+- Tech Support Specialist at Craftable.
+- Information Technology and Systems student at The University of Texas at Dallas.
+
+📊 Passion for Data:
+
+- Eager to explore the vast world of data.
+- Dreaming of evolving into a Data Engineer.
+  
+🐍 Coding Journey:
+
+- Python explorer at the base level, always hungry to learn more.
+- Proficient in SQL, unraveling the secrets of databases.
+
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>Python</b>
